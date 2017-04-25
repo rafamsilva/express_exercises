@@ -1,0 +1,22 @@
+{
+  "name": "express_exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafamsilva/express_exercises.git"
+  },
+  "author": "Rafael de Melo Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafamsilva/express_exercises/issues"
+  },
+  "homepage": "https://github.com/rafamsilva/express_exercises#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
